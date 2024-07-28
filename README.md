@@ -7,3 +7,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 URLS: \
 / \
 /dashboard
+
+Need to have local .env file or settings to interact with database
+
+Dashboard is updated dynamically through an SQL databases
